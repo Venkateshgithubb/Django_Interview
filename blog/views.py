@@ -5,4 +5,5 @@ from .models import *
 class PostListView(ListView):
     model = Post
 
+print("hari")
 # Create your views here.
